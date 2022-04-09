@@ -38,7 +38,7 @@
     <br />
 
     <button v-on:click="show = !show">Скрыть / показать</button>
-    <p v-if="show">Невидимка</p>
+    <p v-if="show">Невидимка абабабаб</p>
   </div>
 </template>
 
